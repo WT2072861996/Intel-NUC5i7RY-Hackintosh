@@ -149,7 +149,7 @@ cp -R EFI /Volumes/EFI/
 
 | 系统信息 |
 |:--------:|
-| ![系统信息](./Screenshots/screenshot.png) |
+| ![系统信息](https://cdn.jsdelivr.net/gh/WT2072861996/Intel-NUC5i7RY-Hackintosh@main/Screenshots/screenshot.png) |
 
 ---
 
